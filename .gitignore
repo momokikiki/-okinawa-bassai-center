@@ -1,1 +1,4 @@
 .DS_Store
+
+# VS Code のワークスペース設定（個人用）
+*.code-workspace
